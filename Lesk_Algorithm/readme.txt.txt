@@ -1,0 +1,1 @@
+python Lesk.py "bank" "He went fishing on the bank of the river."
